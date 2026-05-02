@@ -85,4 +85,5 @@ dotnet run --project src/LinqOptimizationDemo/LinqOptimizationDemo.csproj -c Rel
 You can use this project as a downloadable companion for an article titled:
 
 **How to Optimize LINQ Queries in C#: Complete Performance, Logging & Diagnostics Guide**
+https://pkey.info/knowledge-base/optimize-linq-queries-csharp-performance/
 
